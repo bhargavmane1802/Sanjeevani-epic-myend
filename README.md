@@ -1,4 +1,4 @@
-<h1 align="center"> <br> <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://github.com/GAUTAMKUMARYADAV100/Modern_frontend_medchain/blob/main/client/src/assets/LogoTealBG.jpg?raw=true" alt="Markdownify" width="300"></a> <br> </h1> <h4 align="center">A blockchain-based Electrical Medical Records (EMR) system.</h4> <p align="center"> <a href="#key-features">Key Features</a> • <a href="#how-it-works">How It Works</a> • <a href="#how-to-use">How To Use</a> • <a href="#support">Support</a> </p>
+<h1 align="center"> <br> <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://github.com/GAUTAMKUMARYADAV100/Gautam_Certification/blob/main/sanjeevanilogo/LogoTealBG.jpg?raw=true" alt="Markdownify" width="300"></a> <br> </h1> <h4 align="center">A blockchain-based Electrical Medical Records (EMR) system.</h4> <p align="center"> <a href="#key-features">Key Features</a> • <a href="#how-it-works">How It Works</a> • <a href="#how-to-use">How To Use</a> • <a href="#support">Support</a> </p>
 Key Features
 
 Sanjeevani is powered by IPFS
